@@ -28,7 +28,8 @@ const styles = {
             width  : 0,
             height : 5,
         },
-        shadowOpacity: 1
+        shadowOpacity: 1,
+        elevation: 2
     },
     textStyle: {
         fontSize: 20
